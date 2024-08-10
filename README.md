@@ -2,7 +2,10 @@ Hello. I'm Asher Harman, a prospective Data Analyst with a strong focus on data 
 
 
 **Case Study and Projects:**
+
 If you are interested in what I have been up to and what I can do. Please check out my projects.
+
+
 
 
 **Tools:**
