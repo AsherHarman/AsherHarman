@@ -15,4 +15,8 @@ If you are interested in what I have been up to and what I can do. Please check 
 - Visualizations: Tableau, RStudio
 
 
+**Rewards & Certificates**
+- Google Data Analytics
+
+
 Thank you for dropping by and giving me a look.
