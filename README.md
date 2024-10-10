@@ -16,7 +16,7 @@ If you are interested in what I have been up to and what I can do. Please check 
 
 
 **Rewards & Certificates**
-- Google Data Analytics
+- Google Data Analytics - Coursae
 
 
 Thank you for dropping by and giving me a look.
